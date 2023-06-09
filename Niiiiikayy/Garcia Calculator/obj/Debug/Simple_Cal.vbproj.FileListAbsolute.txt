@@ -1,0 +1,39 @@
+C:\Users\Acer\source\repos\Simple_Cal\bin\Debug\Simple_Cal.exe.config
+C:\Users\Acer\source\repos\Simple_Cal\bin\Debug\Simple_Cal.exe
+C:\Users\Acer\source\repos\Simple_Cal\bin\Debug\Simple_Cal.pdb
+C:\Users\Acer\source\repos\Simple_Cal\bin\Debug\Simple_Cal.xml
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.Form1.resources
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.Resources.resources
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.exe
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.xml
+C:\Users\Acer\source\repos\Simple_Cal\obj\Debug\Simple_Cal.pdb
+D:\Downloads\Simple_Cal\bin\Debug\Simple_Cal.exe.config
+D:\Downloads\Simple_Cal\bin\Debug\Simple_Cal.exe
+D:\Downloads\Simple_Cal\bin\Debug\Simple_Cal.pdb
+D:\Downloads\Simple_Cal\bin\Debug\Simple_Cal.xml
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.vbproj.AssemblyReference.cache
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.vbproj.SuggestedBindingRedirects.cache
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.Form1.resources
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.Resources.resources
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.vbproj.GenerateResource.cache
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.vbproj.CoreCompileInputs.cache
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.exe
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.xml
+D:\Downloads\Simple_Cal\obj\Debug\Simple_Cal.pdb
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\bin\Debug\Simple_Cal.exe.config
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\bin\Debug\Simple_Cal.exe
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\bin\Debug\Simple_Cal.pdb
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\bin\Debug\Simple_Cal.xml
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.vbproj.AssemblyReference.cache
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.vbproj.SuggestedBindingRedirects.cache
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.Form1.resources
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.Form2.resources
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.Resources.resources
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.vbproj.GenerateResource.cache
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.vbproj.CoreCompileInputs.cache
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.exe
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.xml
+D:\Franz Files\SDM Subject\Daisy Daisy Daisy\Simple_Cal\obj\Debug\Simple_Cal.pdb
